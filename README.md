@@ -33,8 +33,6 @@ I'm a passionate Developer and I love to code. Here's a little about me:
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4r534&theme=dark" alt="GitHub Streak" />
     </a>
 </p>
-<!-- GitHub Activity Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=d4r534&theme=github" alt="GitHub Activity Graph" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4r534&layout=compact&theme=dark)
 
