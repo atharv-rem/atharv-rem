@@ -1,5 +1,5 @@
 <!-- Replace the URL with a link to your banner image -->
-[![Banner](https:github.com/d4r534/profilebanner/blob/main/Atharv.gif)](https://linkedin.com/in/atharvremeshanbasai)
+[![Banner](https://github.com/d4r534/profilebanner/blob/main/Atharv.gif)](https://linkedin.com/in/atharvremeshanbasai)
 
 # Hello, I'm Atharv Remeshan! 👋
 
