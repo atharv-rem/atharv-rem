@@ -1,6 +1,3 @@
-<!-- Replace the URL with a link to your banner image -->
-[![Banner](https://github.com/d4r534/profilebanner/blob/main/Atharv.gif)](https://linkedin.com/in/atharvremeshanbasai)
-
 # Hello, I'm Atharv Remeshan! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
@@ -12,6 +9,9 @@ I'm a passionate Developer and I love to code. Here's a little about me:
 
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 😎Blogs
+[![Medium](https://github-readme-medium.vercel.app/?username=@atharv.rem)](https://medium.com/@atharv.rem)
 
 ## 🌟 Featured Projects
 
@@ -27,11 +27,15 @@ I'm a passionate Developer and I love to code. Here's a little about me:
 ## 📈 GitHub Stats
 
 ![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4r534&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko)
+<!-- GitHub Readme Streak Stats -->
+<p align="left">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4r534&theme=dark" alt="GitHub Streak" />
+    </a>
+</p>
+<!-- GitHub Activity Graph -->
+<img src="https://activity-graph.herokuapp.com/graph?username=d4r534&theme=github" alt="GitHub Activity Graph" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4r534&layout=compact&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=d4r534&color=000000&style=flat&label=Profile+Views)
-
-
-
-
-
