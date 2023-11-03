@@ -12,14 +12,12 @@ I'm a passionate Developer and I love to code. Here's a little about me:
 
 ## 🌟 Featured Projects
 
-1. **Bas.AI - pythonXchatgpt collab
+1. **Bas.AI - pythonXchatgpt collab**
    
    [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai)
    
    [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/d4r534/Bas.AI)
 
-   [![Repository Views](https://komarev.com/ghpvc/?username=your-username&color=000000)](https://github.com/d4r534/Bas.AI)
-   
 
 ## 📈 GitHub Stats
 
