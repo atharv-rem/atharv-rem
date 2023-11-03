@@ -7,6 +7,8 @@ I'm a passionate Developer and I love to code. Here's a little about me:
 - 🔭 I’m currently working on some awesome projects.
 - 🌱 I’m currently learning python language
 
+![Profile Views](https://komarev.com/ghpvc/?username=d4r534&color=000000&style=flat&label=Profile+Views)
+
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -35,5 +37,3 @@ I'm a passionate Developer and I love to code. Here's a little about me:
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4r534&layout=compact&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=d4r534&color=000000&style=flat&label=Profile+Views)
