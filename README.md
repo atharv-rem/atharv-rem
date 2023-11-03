@@ -3,16 +3,21 @@
 
 # Hello, I'm Atharv Remeshan! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/your-username/)https://www.linkedin.com/in/your-username/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)]([https://medium.com/@your-username/](https://medium.com/@atharv.rem)https://medium.com/@atharv.rem)
+
 I'm a passionate Developer and I love to code. Here's a little about me:
 - 🔭 I’m currently working on some awesome projects.
 - 🌱 I’m currently learning python language
 
 ## 🚀 Skills
-- Python
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🌟 Featured Projects
 
 1. **Bas.AI - pythonXchatgpt collab**
+   
+   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
    
    [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai)
    
@@ -21,16 +26,12 @@ I'm a passionate Developer and I love to code. Here's a little about me:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4r534&show_icons=true&bg_color=000000&text_color=FFFFFF)
+![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4r534&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4r534&layout=compact&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=d4r534&color=000000&style=flat&label=Profile+Views)
 
 
-## 📫 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/your-username/)https://www.linkedin.com/in/your-username/)
-
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)]([https://medium.com/@your-username/](https://medium.com/@atharv.rem)https://medium.com/@atharv.rem)
 
 
 
