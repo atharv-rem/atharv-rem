@@ -1,4 +1,4 @@
-![Design 14](https://github.com/d4r534/d4r534/assets/110873154/a13c5e8b-482a-46e7-9c35-c5175b2a1618)
+![Design 14 (1)](https://github.com/d4r534/d4r534/assets/110873154/79becf41-d00c-489e-b656-fc61173caec0)
 
 # Hello, I'm Atharv Remeshan! 👋
 
