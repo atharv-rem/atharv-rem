@@ -1,3 +1,5 @@
+![Design 14](https://github.com/d4r534/d4r534/assets/110873154/a13c5e8b-482a-46e7-9c35-c5175b2a1618)
+
 # Hello, I'm Atharv Remeshan! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
