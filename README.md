@@ -19,7 +19,7 @@ I'm a passionate Developer and I love to code. Here's a little about me:
 
 ## 🌟 Featured Projects
 
-1. **Bas.AI - pythonXchatgpt collab**
+**1. Bas.AI - pythonXchatgpt collab**
    
    ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
    
