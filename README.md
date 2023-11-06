@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)](https://medium.com/@atharv.rem)
+[![Follow on GitHub](https://img.shields.io/github/followers/d4r534?label=Follow&style=social&logo=GitHub&color=000000)](https://github.com/d4r534)
+
 
 I'm a passionate Developer and I love to code. Here's a little about me:
 - 🔭 I’m currently working on some awesome projects.
