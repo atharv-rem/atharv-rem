@@ -40,6 +40,8 @@ I'm a passionate Developer and I love to code. Here's a little about me:
     </a>
 </p>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharvremeshanbasai?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bxtcuf8x4re21nfrgpa3ubg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharvremeshanbasai?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bxtcuf8x4re21nfrgpa3ubg%3d%3d" height="30" width="40" /></a>
+[![atharv's GitHub | Stats](https://stats.quine.sh/atharv/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharv)
+[![atharv's GitHub | Languages Over Time](https://stats.quine.sh/atharv/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharv)
+[![atharv's Stack Overflow | Stats](https://stats.quine.sh/atharv/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharv)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4r534&layout=compact&theme=dark)
