@@ -11,7 +11,7 @@ I'm a passionate Developer and I love to code. Here's a little about me:
 - 🔭 I’m currently working on some awesome projects.
 - 🌱 I’m currently learning python language
 
-![Profile Views](https://komarev.com/ghpvc/?username=d4r534&color=000000&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=atharv-rem&color=000000&style=flat&label=Profile+Views)
 
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,21 +27,22 @@ I'm a passionate Developer and I love to code. Here's a little about me:
    
    [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai)
    
-   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/d4r534/Bas.AI)
+   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/atharv-rem/Bas.AI)
 
 
 ## 📈 GitHub Stats
 
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4r534&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko)
+![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharv-rem&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko)
 <!-- GitHub Readme Streak Stats -->
 <p align="left">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4r534&theme=dark" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-rem&theme=dark" alt="GitHub Streak" />
     </a>
 </p>
 
 [![atharv's GitHub | Stats](https://stats.quine.sh/atharv/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharv)
 [![atharv's GitHub | Languages Over Time](https://stats.quine.sh/atharv/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharv)
 [![atharv's Stack Overflow | Stats](https://stats.quine.sh/atharv/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharv)
+[![atharv's GitHub | Dependencies](https://stats.quine.sh/atharv/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atharv)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4r534&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-rem&layout=compact&theme=dark)
