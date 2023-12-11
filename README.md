@@ -1,4 +1,5 @@
-![Design 14 (1)](https://github.com/d4r534/d4r534/assets/110873154/79becf41-d00c-489e-b656-fc61173caec0)
+![Copy of Bas AI - Trim](https://github.com/atharv-rem/atharv-rem/assets/110873154/9fd1ca3f-3641-49db-8909-32b137dd6955)
+
 
 # Hello, I'm Atharv Remeshan! 👋
 
