@@ -6,23 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)](https://medium.com/@atharv.rem)
 [![Follow on GitHub](https://img.shields.io/github/followers/atharv-rem?label=Follow&style=social&logo=GitHub&color=000000)](https://github.com/atharv-rem)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Page Title</title>
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="atharv.rem" data-color="#FFDD00" data-emoji=""  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script>
-</head>
-<body>
-</body>
-</html>
-
-
-
-
-
-
 
 I'm a passionate Developer and I love to code. Here's a little about me:
 - 🔭 I’m currently working on some awesome projects.
