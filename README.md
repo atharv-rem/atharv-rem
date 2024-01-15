@@ -3,10 +3,14 @@
 
 # Hello, I'm Atharv Remeshan! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)](https://medium.com/@atharv.rem)
-[![Follow on GitHub](https://img.shields.io/github/followers/atharv-rem?label=Follow&style=social&logo=GitHub&color=000000)](https://github.com/atharv-rem)
-[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&labelColor=000000)](https://www.pinterest.com/atharvrem/)
+[![Follow on GitHub](https://img.shields.io/github/followers/atharv-rem?label=Follow&style=for-the-badge&logo=GitHub&color=000000)](https://github.com/atharv-rem)
+[![Join the Discussion](https://img.shields.io/badge/Threads-Join-black?style=for-the-badge&logo=Threads&labelColor=black)](https://www.threads.net/@atharv_remeshan)
+[![Follow on Instagram](https://img.shields.io/badge/Instagram-Follow-5851D8?style=for-the-badge&logo=Instagram&labelColor=black)](https://www.instagram.com/atharv_remeshan/)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/atharv_rem?label=Twitter&style=for-the-badge&logo=Twitter&color=000000&labelColor=000000)](https://twitter.com/atharv_rem)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&labelColor=000000)](https://www.pinterest.com/Pics_in/)
+
 
 **I'm a passionate Developer and I love to code. Here's a little about me:**
 
