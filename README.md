@@ -10,6 +10,7 @@
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-Follow-5851D8?style=for-the-badge&logo=Instagram&labelColor=black)](https://www.instagram.com/atharv_remeshan/)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/atharv_rem?label=Twitter&style=for-the-badge&logo=Twitter&color=000000&labelColor=000000)](https://twitter.com/atharv_rem)
 [![Pinterest](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&labelColor=000000)](https://www.pinterest.com/Pics_in/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-3b5998?style=for-the-badge&logo=facebook&labelColor=000000)](https://www.facebook.com/Pics.in/)
 
 
 **I'm a passionate Developer and I love to code. Here's a little about me:**
