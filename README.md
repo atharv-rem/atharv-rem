@@ -3,7 +3,7 @@
 
 # Hello, I'm Atharv Remeshan! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&labelColor=000000)](https://www.linkedin.com/in/atharv-rem)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)](https://medium.com/@atharv.rem)
 [![Follow on GitHub](https://img.shields.io/github/followers/atharv-rem?label=Follow&style=for-the-badge&logo=GitHub&color=000000)](https://github.com/atharv-rem)
 [![Join the Discussion](https://img.shields.io/badge/Threads-Join-black?style=for-the-badge&logo=Threads&labelColor=black)](https://www.threads.net/@atharv_remeshan)
