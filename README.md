@@ -16,7 +16,7 @@
 **I'm a passionate Developer and I love to code. Here's a little about me:**
 
 - **🔭 I’m currently working on some awesome projects.**
-- **🌱 I’m currently learning python language**
+- **🌱 I’m currently learning react language**
 
 [![Visit Website](https://img.shields.io/badge/Support%20Me-Click%20Here-black?style=for-the-badge)](https://www.buymeacoffee.com/atharv.rem)
 
