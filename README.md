@@ -13,31 +13,14 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-3b5998?style=for-the-badge&logo=facebook&labelColor=000000)](https://www.facebook.com/Pics.in/)
 
 
-**I'm a passionate Developer and I love to code. Here's a little about me:**
 
-- **🔭 I’m currently working on some awesome projects.**
-- **🌱 I’m currently learning react language**
 
 [![Visit Website](https://img.shields.io/badge/Support%20Me-Click%20Here-black?style=for-the-badge)](https://www.buymeacoffee.com/atharv.rem)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atharv-rem&color=000000&style=flat&label=Profile+Views)
 
-## 🚀 Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ## 😎Blogs
 [![Medium](https://github-readme-medium.vercel.app/?username=@atharv.rem)](https://medium.com/@atharv.rem)
-
-## 🌟 Featured Projects
-
-**1. Bas.AI - pythonXchatgpt collab**
-   
-   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-   
-   [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai)
-   
-   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/atharv-rem/Bas.AI)
-
 
 ## 📈 GitHub Stats
 
